@@ -15,7 +15,7 @@ const theme = createTheme({
       main: '#31304D',
     },
     background: {
-      default: '#B6BBC4',
+      default: '#B3C8CF',
     },
     accent: {
       main: '#F0ECE5',
@@ -29,7 +29,7 @@ function App() {
       <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', padding: 20 }}>
         <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', padding: 0 }}>
       <img src={logo} alt="Logo" style={{ width: 70,marginRight: 10}} />
-        <h1>visionary</h1>
+        <h1>Echo AI</h1>
         </div>
         <CameraComponent />
       </div>

@@ -30,7 +30,7 @@ const ImagePopup = ({ open, handleClose, image, response, imagelistprop }) => {
   return (
     <Dialog open={open} onClose={handleClose}>
       <div style={{ backgroundColor: theme.palette.accent.main }}>
-        <DialogTitle> Visionary Response</DialogTitle>
+        <DialogTitle> Echo Ai Response</DialogTitle>
         <DialogContent>
           <DialogContentText>
             {image ? (
