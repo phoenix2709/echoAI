@@ -485,9 +485,7 @@ const CameraComponent = () => {
                 </IconButton>
               </Box>
               <Typography variant="body1" color="primary" mt={3}>
-                        An open source project by Sahil and Aditya <a href="https://github.com/phoenix2709/echoAI" target="_blank" 
-                        style={{color:"#ff6961"}} 
-                        > [Source Code] </a>
+                        An open source project by Sahil and Aditya
                         </Typography>
               </div>
             </div>
